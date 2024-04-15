@@ -1,0 +1,7 @@
+input_sources:
+  - file_path: example/payload.json
+    json_config:
+      stream_id_key: "stream_id"
+      data_key: "buffer"
+#  - file_path: http2-h2c.pcap
+#    pcap_config: {}
